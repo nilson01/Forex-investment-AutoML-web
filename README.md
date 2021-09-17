@@ -9,4 +9,4 @@ Following is the link to back-end code
 
 **Please go across different branch for diffeerent version:**
 * Localhost version
-* Online hoosted version
+* Online hosted version
